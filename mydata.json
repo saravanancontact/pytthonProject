@@ -1,0 +1,16 @@
+{
+  "data1": "data1value",
+  "data2": "data2value",
+  "data3": {
+    "E1": "E1Value",
+    "E2": "E2Value",
+    "E3": {
+      "F1": "F1Value",
+      "F2": "F2Value",
+      "F3": {
+        "G1": "G1Value"
+      }
+    }
+  }
+
+}
