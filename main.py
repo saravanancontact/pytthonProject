@@ -36,4 +36,3 @@ with open('mydata.json') as f:
 	  file1.writelines("\n")
   file1.close()
 
-
